@@ -1,0 +1,5 @@
+model,metric,value
+3-class,accuracy,0.7504
+3-class,f1_weighted,0.7852
+2-class,accuracy,0.9215
+2-class,f1_weighted,0.9243

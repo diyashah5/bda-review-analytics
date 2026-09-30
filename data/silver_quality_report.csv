@@ -1,0 +1,6 @@
+step,rows,removed
+1. Bronze rows (raw),189874,
+2. After removing exact duplicates,165012,24862.0
+3. After removing invalid ratings,165007,5.0
+4. After removing rows with unreadable price,165007,0.0
+5. After removing empty review text,164982,25.0

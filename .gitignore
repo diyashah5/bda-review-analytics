@@ -1,0 +1,16 @@
+# Spark layers are rebuilt by the scripts
+data/bronze/
+data/silver/
+*.parquet
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

@@ -1,0 +1,10 @@
+actual,predicted,reviews
+negative,negative,3704
+negative,neutral,900
+negative,positive,357
+neutral,negative,539
+neutral,neutral,1356
+neutral,positive,935
+positive,negative,973
+positive,neutral,4547
+positive,positive,19746
