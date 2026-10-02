@@ -1,0 +1,7 @@
+engine,rows,seconds
+Pandas,164982,0.03
+Pandas,3299640,0.22
+Spark (1 core),164982,0.53
+Spark (1 core),3299640,1.14
+Spark (2 cores),164982,0.39
+Spark (2 cores),3299640,0.99

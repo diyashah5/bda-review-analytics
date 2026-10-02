@@ -1,5 +1,7 @@
 pyspark
 pandas
 numpy
+pyarrow
+psycopg2-binary
 streamlit
 plotly

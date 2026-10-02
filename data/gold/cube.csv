@@ -24,21 +24,21 @@ Appliances,"5. 10,000+",2,negative,160,2950182.0,3083
 Appliances,"5. 10,000+",3,neutral,381,6940068.0,6010
 Appliances,"5. 10,000+",4,positive,1375,25318373.0,17198
 Appliances,"5. 10,000+",5,positive,4087,77190848.0,44050
-Electronics & Accessories,1. Under 500,1,negative,785,259679.0,6038
-Electronics & Accessories,1. Under 500,2,negative,207,63627.0,1712
-Electronics & Accessories,1. Under 500,3,neutral,514,149555.0,3481
-Electronics & Accessories,1. Under 500,4,positive,1165,326181.0,6255
-Electronics & Accessories,1. Under 500,5,positive,3371,943622.0,17976
+Electronics & Accessories,1. Under 500,1,negative,740,239258.0,5764
+Electronics & Accessories,1. Under 500,2,negative,183,52671.0,1585
+Electronics & Accessories,1. Under 500,3,neutral,468,129069.0,3291
+Electronics & Accessories,1. Under 500,4,positive,1109,301319.0,6042
+Electronics & Accessories,1. Under 500,5,positive,3266,897269.0,17622
 Electronics & Accessories,2. 500-999,1,negative,606,459721.0,6637
 Electronics & Accessories,2. 500-999,2,negative,141,104147.0,1502
 Electronics & Accessories,2. 500-999,3,neutral,341,253125.0,2228
 Electronics & Accessories,2. 500-999,4,positive,1054,778205.0,7367
 Electronics & Accessories,2. 500-999,5,positive,3035,2248806.0,20503
-Electronics & Accessories,"3. 1,000-2,999",1,negative,1355,2592478.0,16210
+Electronics & Accessories,"3. 1,000-2,999",1,negative,1354,2591219.0,16165
 Electronics & Accessories,"3. 1,000-2,999",2,negative,374,775483.0,5301
-Electronics & Accessories,"3. 1,000-2,999",3,neutral,763,1480527.0,8515
-Electronics & Accessories,"3. 1,000-2,999",4,positive,1742,3359933.0,17014
-Electronics & Accessories,"3. 1,000-2,999",5,positive,5402,10180127.0,54548
+Electronics & Accessories,"3. 1,000-2,999",3,neutral,761,1478009.0,8465
+Electronics & Accessories,"3. 1,000-2,999",4,positive,1741,3358674.0,17009
+Electronics & Accessories,"3. 1,000-2,999",5,positive,5396,10172573.0,54521
 Electronics & Accessories,"4. 3,000-9,999",1,negative,1071,6183227.0,16369
 Electronics & Accessories,"4. 3,000-9,999",2,negative,291,1730562.0,4281
 Electronics & Accessories,"4. 3,000-9,999",3,neutral,610,3708487.0,9687
@@ -49,11 +49,11 @@ Electronics & Accessories,"5. 10,000+",2,negative,156,4801425.0,3452
 Electronics & Accessories,"5. 10,000+",3,neutral,463,14957563.0,10211
 Electronics & Accessories,"5. 10,000+",4,positive,1815,60672417.0,38518
 Electronics & Accessories,"5. 10,000+",5,positive,5987,230219987.0,96297
-Fashion & Apparel,1. Under 500,1,negative,2685,884967.0,16008
-Fashion & Apparel,1. Under 500,2,negative,997,328473.0,5377
-Fashion & Apparel,1. Under 500,3,neutral,2036,658017.0,9940
-Fashion & Apparel,1. Under 500,4,positive,3194,1010942.0,14577
-Fashion & Apparel,1. Under 500,5,positive,7697,2421949.0,34599
+Fashion & Apparel,1. Under 500,1,negative,2155,712493.0,12378
+Fashion & Apparel,1. Under 500,2,negative,748,246528.0,3833
+Fashion & Apparel,1. Under 500,3,neutral,1578,507678.0,7316
+Fashion & Apparel,1. Under 500,4,positive,2282,709100.0,10323
+Fashion & Apparel,1. Under 500,5,positive,5667,1750866.0,24660
 Fashion & Apparel,2. 500-999,1,negative,148,83979.0,1033
 Fashion & Apparel,2. 500-999,2,negative,47,26388.0,303
 Fashion & Apparel,2. 500-999,3,neutral,128,71736.0,852
@@ -69,21 +69,21 @@ Fashion & Apparel,"4. 3,000-9,999",2,negative,8,29749.0,27
 Fashion & Apparel,"4. 3,000-9,999",3,neutral,16,64222.0,111
 Fashion & Apparel,"4. 3,000-9,999",4,positive,63,228239.0,339
 Fashion & Apparel,"4. 3,000-9,999",5,positive,211,733181.0,1334
-Home Decor & Furnishing,1. Under 500,1,negative,951,294878.0,5986
-Home Decor & Furnishing,1. Under 500,2,negative,396,121312.0,2527
-Home Decor & Furnishing,1. Under 500,3,neutral,1072,337951.0,5656
-Home Decor & Furnishing,1. Under 500,4,positive,2366,746502.0,10520
-Home Decor & Furnishing,1. Under 500,5,positive,6684,2090371.0,30990
+Home Decor & Furnishing,1. Under 500,1,negative,1840,557665.0,11983
+Home Decor & Furnishing,1. Under 500,2,negative,756,233506.0,4846
+Home Decor & Furnishing,1. Under 500,3,neutral,1816,562428.0,9606
+Home Decor & Furnishing,1. Under 500,4,positive,3726,1160586.0,16654
+Home Decor & Furnishing,1. Under 500,5,positive,9978,3064802.0,46328
 Home Decor & Furnishing,2. 500-999,1,negative,976,639753.0,7866
 Home Decor & Furnishing,2. 500-999,2,negative,373,246357.0,2898
-Home Decor & Furnishing,2. 500-999,3,neutral,829,535918.0,6478
+Home Decor & Furnishing,2. 500-999,3,neutral,830,536467.0,6489
 Home Decor & Furnishing,2. 500-999,4,positive,1499,973258.0,8886
-Home Decor & Furnishing,2. 500-999,5,positive,3688,2390249.0,20715
-Home Decor & Furnishing,"3. 1,000-2,999",1,negative,222,286508.0,2966
+Home Decor & Furnishing,2. 500-999,5,positive,3697,2395190.0,20738
+Home Decor & Furnishing,"3. 1,000-2,999",1,negative,223,287767.0,3011
 Home Decor & Furnishing,"3. 1,000-2,999",2,negative,76,93266.0,943
-Home Decor & Furnishing,"3. 1,000-2,999",3,neutral,151,185166.0,1497
-Home Decor & Furnishing,"3. 1,000-2,999",4,positive,472,590567.0,4813
-Home Decor & Furnishing,"3. 1,000-2,999",5,positive,1207,1552834.0,9340
+Home Decor & Furnishing,"3. 1,000-2,999",3,neutral,153,187684.0,1547
+Home Decor & Furnishing,"3. 1,000-2,999",4,positive,473,591826.0,4818
+Home Decor & Furnishing,"3. 1,000-2,999",5,positive,1213,1560388.0,9367
 Home Decor & Furnishing,"4. 3,000-9,999",1,negative,139,539640.0,2112
 Home Decor & Furnishing,"4. 3,000-9,999",2,negative,37,149058.0,465
 Home Decor & Furnishing,"4. 3,000-9,999",3,neutral,82,357056.0,1066
@@ -94,11 +94,11 @@ Home Decor & Furnishing,"5. 10,000+",2,negative,3,42291.0,27
 Home Decor & Furnishing,"5. 10,000+",3,neutral,8,153905.0,49
 Home Decor & Furnishing,"5. 10,000+",4,positive,42,747306.0,606
 Home Decor & Furnishing,"5. 10,000+",5,positive,134,2478290.0,1936
-Kitchen & Dining,1. Under 500,1,negative,512,120069.0,3477
-Kitchen & Dining,1. Under 500,2,negative,162,36437.0,1203
-Kitchen & Dining,1. Under 500,3,neutral,386,85981.0,1778
-Kitchen & Dining,1. Under 500,4,positive,692,153935.0,3223
-Kitchen & Dining,1. Under 500,5,positive,1933,434173.0,7940
+Kitchen & Dining,1. Under 500,1,negative,205,51192.0,1456
+Kitchen & Dining,1. Under 500,2,negative,78,17579.0,584
+Kitchen & Dining,1. Under 500,3,neutral,149,32764.0,661
+Kitchen & Dining,1. Under 500,4,positive,308,67715.0,1600
+Kitchen & Dining,1. Under 500,5,positive,813,182833.0,3340
 Kitchen & Dining,2. 500-999,1,negative,498,325881.0,4338
 Kitchen & Dining,2. 500-999,2,negative,217,142108.0,1778
 Kitchen & Dining,2. 500-999,3,neutral,510,335371.0,3181
@@ -177,16 +177,16 @@ Sports & Fitness,"5. 10,000+",2,negative,4,65996.0,49
 Sports & Fitness,"5. 10,000+",3,neutral,11,181489.0,285
 Sports & Fitness,"5. 10,000+",4,positive,21,346479.0,292
 Sports & Fitness,"5. 10,000+",5,positive,67,1105433.0,678
-Toys & Garden,1. Under 500,1,negative,861,197664.0,6248
-Toys & Garden,1. Under 500,2,negative,220,53616.0,1457
-Toys & Garden,1. Under 500,3,neutral,399,98190.0,2247
-Toys & Garden,1. Under 500,4,positive,721,181639.0,3602
-Toys & Garden,1. Under 500,5,positive,1954,496625.0,9519
+Toys & Garden,1. Under 500,1,negative,854,196649.0,6176
+Toys & Garden,1. Under 500,2,negative,217,53181.0,1428
+Toys & Garden,1. Under 500,3,neutral,396,97755.0,2228
+Toys & Garden,1. Under 500,4,positive,713,180479.0,3558
+Toys & Garden,1. Under 500,5,positive,1915,490970.0,9074
 Toys & Garden,2. 500-999,1,negative,184,175969.0,1491
 Toys & Garden,2. 500-999,2,negative,39,37325.0,202
-Toys & Garden,2. 500-999,3,neutral,74,68521.0,528
+Toys & Garden,2. 500-999,3,neutral,73,67972.0,517
 Toys & Garden,2. 500-999,4,positive,108,94677.0,487
-Toys & Garden,2. 500-999,5,positive,278,248104.0,1152
+Toys & Garden,2. 500-999,5,positive,269,243163.0,1129
 Toys & Garden,"3. 1,000-2,999",1,negative,12,14988.0,154
 Toys & Garden,"3. 1,000-2,999",2,negative,1,1249.0,4
 Toys & Garden,"3. 1,000-2,999",3,neutral,4,4996.0,32

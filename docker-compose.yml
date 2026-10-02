@@ -1,0 +1,16 @@
+# PostgreSQL for the warehouse step.   Start it with:  docker compose up -d
+services:
+  postgres:
+    image: postgres:16
+    container_name: bda_postgres
+    environment:
+      POSTGRES_USER: bda
+      POSTGRES_PASSWORD: bda123
+      POSTGRES_DB: reviews
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

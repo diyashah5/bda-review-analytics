@@ -1,0 +1,1 @@
+CREATE DATABASE review_warehouse;

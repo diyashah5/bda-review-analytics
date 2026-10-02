@@ -1,0 +1,129 @@
+=== 1. Reviews and average rating by category ===
+            category_name  reviews  avg_rating
+Electronics & Accessories    38666        4.13
+               Appliances    38243        4.11
+  Home Decor & Furnishing    28947        4.02
+         Kitchen & Dining    16740        4.25
+        Fashion & Apparel    15054        3.73
+ Personal Care & Cleaning     9403        4.07
+         Sports & Fitness     7825        4.16
+                    Other     5245        4.09
+            Toys & Garden     4859        3.60
+
+=== 2. Sentiment share by category (%) ===
+            category_name  pct_positive  pct_neutral  pct_negative
+         Kitchen & Dining          81.4          8.4          10.2
+Electronics & Accessories          79.0          6.8          14.1
+               Appliances          78.8          7.5          13.7
+         Sports & Fitness          78.6          8.6          12.9
+                    Other          77.0          7.5          15.4
+ Personal Care & Cleaning          76.5          8.4          15.1
+  Home Decor & Furnishing          74.7         10.0          15.3
+        Fashion & Apparel          65.5         12.0          22.5
+            Toys & Garden          63.0          9.9          27.1
+
+=== 3. Average rating and review length by price band ===
+    price_band  reviews  avg_rating  avg_words
+  1. Under 500    59141        3.96        5.3
+    2. 500-999    26577        4.03        6.3
+3. 1,000-2,999    33135        4.08        8.9
+4. 3,000-9,999    28940        4.14       12.0
+    5. 10,000+    17189        4.34       15.8
+
+=== 4. Rating distribution ===
+ rating  reviews  pct
+      1    18781 11.4
+      2     6013  3.6
+      3    13945  8.5
+      4    33197 20.1
+      5    93046 56.4
+
+=== 5. Top 10 most reviewed products ===
+                                                     product             category_name  reviews  avg_rating
+cello Pack of 18 Opalware Cello Dazzle Lush Fiesta Opalware           Kitchen & Dining     6951        4.30
+MILTON Thermosteel Flip Lid 500 ml Flask (Pack of 1, Silver,          Kitchen & Dining     5941        4.35
+Home Sizzler 153 cm (5.02 ft) Polyester Room Darkening Windo   Home Decor & Furnishing     3181        4.44
+Mi 5A 80 cm (32 inch) HD Ready LED Smart Android TV with Dol Electronics & Accessories     2154        4.14
+CMerchants Multi Organiser BLue-4 Book Shelf Metal Open Book   Home Decor & Furnishing     2049        4.01
+Kadio Analog 20 cm X 20 cm Wall Clock (Beige, With Glass, St   Home Decor & Furnishing     1934        3.90
+Cosito 144 TC Cotton Double Floral Flat Bedsheet (Pack of 1,   Home Decor & Furnishing     1884        4.05
+Singer FM 1409 Electric Sewing Machine ( Built-in Stitches 9                Appliances     1835        4.34
+Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens ( Electronics & Accessories     1734        4.47
+      NIVIA Storm Football - Size: 5 (Pack of 1, Multicolor)          Sports & Fitness     1672        4.06
+
+=== 6. Products with the highest share of negative reviews (200+ reviews) ===
+                                                     product  reviews  pct_negative
+VERMI COMPOST 10 Kg of Pure Natural ORGANIC Cow Dung Dry Man      284          53.9
+                                            Men Black Sandal      619          48.3
+Mayne Flying Remote Control RC Induction Type 2-in-1 Indoor       214          43.9
+                GLOBAL GREEN Dragon Tree (Hybrid, Pack of 5)      281          43.1
+S . K Store Carbon Steel Collapsible Wardrobe (Finish Color       297          40.4
+                                     Solid Men Three Fourths      244          38.1
+Simple Trending PP Collapsible Wardrobe (Finish Color - Navy      290          37.9
+Dallao Waterproof Remote Controlled Rock Crawler RC Monster       379          37.7
+                      SSTOYS 3D Fast Modern Car (Multicolor)      301          37.2
+                  Men Graphic Print Round Neck Black T-Shirt     1066          36.7
+
+=== 7. Average rating by category and price band (100+ reviews) ===
+            category_name     price_band  reviews  avg_rating
+               Appliances   1. Under 500     3150        4.13
+               Appliances     2. 500-999     3669        3.96
+               Appliances 3. 1,000-2,999     8497        3.99
+               Appliances 4. 3,000-9,999    16410        4.14
+               Appliances     5. 10,000+     6517        4.28
+Electronics & Accessories   1. Under 500     5766        4.04
+Electronics & Accessories     2. 500-999     5177        4.11
+Electronics & Accessories 3. 1,000-2,999     9626        3.98
+Electronics & Accessories 4. 3,000-9,999     9122        4.11
+Electronics & Accessories     5. 10,000+     8975        4.40
+        Fashion & Apparel   1. Under 500    12430        3.69
+        Fashion & Apparel     2. 500-999     1183        3.96
+        Fashion & Apparel 3. 1,000-2,999     1105        3.84
+        Fashion & Apparel 4. 3,000-9,999      336        4.19
+  Home Decor & Furnishing   1. Under 500    18116        4.06
+  Home Decor & Furnishing     2. 500-999     7375        3.89
+  Home Decor & Furnishing 3. 1,000-2,999     2138        4.11
+  Home Decor & Furnishing 4. 3,000-9,999     1118        4.05
+  Home Decor & Furnishing     5. 10,000+      200        4.41
+         Kitchen & Dining   1. Under 500     1553        3.93
+         Kitchen & Dining     2. 500-999     6784        4.26
+         Kitchen & Dining 3. 1,000-2,999     8174        4.30
+         Kitchen & Dining 4. 3,000-9,999      229        4.04
+                    Other   1. Under 500     4210        4.03
+                    Other     2. 500-999      152        3.82
+                    Other 3. 1,000-2,999      403        4.61
+                    Other     5. 10,000+      470        4.23
+ Personal Care & Cleaning   1. Under 500     3864        4.10
+ Personal Care & Cleaning     2. 500-999     1501        3.88
+ Personal Care & Cleaning 3. 1,000-2,999     3166        4.08
+ Personal Care & Cleaning     5. 10,000+      872        4.31
+         Sports & Fitness   1. Under 500     5957        4.11
+         Sports & Fitness 4. 3,000-9,999     1692        4.35
+         Sports & Fitness     5. 10,000+      113        4.16
+            Toys & Garden   1. Under 500     4095        3.64
+            Toys & Garden     2. 500-999      673        3.36
+
+=== 8. Review length and price by sentiment ===
+sentiment  reviews  avg_words  avg_price
+ negative    24794       10.4     3004.0
+  neutral    13945        8.7     3166.0
+ positive   126243        8.0     5077.0
+
+=== 9. Best rated product in each category (window function, 100+ reviews) ===
+            category_name                                                 product  reviews  avg_rating
+               Appliances Pureit Advanced Plus RO+MF+MP 7 L RO + MF Water Purifie      371        4.55
+Electronics & Accessories APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big      747        4.78
+        Fashion & Apparel Men Casual Brown Artificial Leather Money Clip - Mini (      274        4.35
+  Home Decor & Furnishing Dinine Craft Set of 4 Showpiece for Home Decor, Handicr      199        4.61
+         Kitchen & Dining Hamlay by SIGRI-WALA Pack of 40 Melamin Pink Dahlia Din      192        4.63
+                    Other mCaffeine Coffee Moment Festive Skincare Gift Set| Dail      172        4.82
+ Personal Care & Cleaning Dettol Effective Protection Antiseptic Liquid (1000 ml)      712        4.56
+         Sports & Fitness Urban Terrain Rio with Complete Accessories & Mobile Tr      198        4.55
+            Toys & Garden AGAMI Green 2 Layer Lucky Bamboo plant with Big Round G      192        4.45
+
+=== 10. Model results stored in the warehouse ===
+  model      metric  value
+2-class    accuracy 0.9215
+2-class f1_weighted 0.9243
+3-class    accuracy 0.7504
+3-class f1_weighted 0.7852

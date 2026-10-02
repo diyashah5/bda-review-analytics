@@ -72,7 +72,8 @@ df = (df
                    .otherwise("5. 10,000+"))
       .withColumn(
           "category",
-          F.when(name.rlike(r"football|cricket|gym|bicycle|\bcycle\b|yoga|dumbbell|badminton|abdomen|fitness|skipping"), "Sports & Fitness")
+          F.when(name.rlike(r"wall clock|bedsheet|bed sheet|curtain|cushion|showpiece|pillow|blanket|carpet|doormat"), "Home Decor & Furnishing")
+           .when(name.rlike(r"football|cricket|gym|bicycle|\bcycle\b|yoga|dumbbell|badminton|abdomen|fitness|skipping"), "Sports & Fitness")
            .when(name.rlike(r"\bmop\b|dettol|serum|face|shampoo|soap|lotion|cream|mamaearth|detergent|cleaner|cleaning|antiseptic|sanitizer|perfume|deodorant"), "Personal Care & Cleaning")
            .when(name.rlike(r"\btoy|toys|seed|plant|garden|puzzle|doll|remote control|\bcar\b"), "Toys & Garden")
            .when(name.rlike(r"\bfan\b|cooler|air conditioner|\bac\b|\biron\b|heater|geyser|washing|wash\b|refrigerator|vacuum|purifier|sewing|trimmer|shaver|dryer|chimney|inverter|\bups\b|food processor|stabili[sz]er|mixer|grinder|juicer|blender|oven|cooker|kettle|toaster|induction|chopper"), "Appliances")
